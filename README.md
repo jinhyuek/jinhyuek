@@ -1,5 +1,5 @@
 ## 😻 Hi, Nice to see you on my **GitHub** profile!
-___
+
 Thank you for visiting my page!  
 l'm studying computer engineering at university
 #### My tech stack ✨
