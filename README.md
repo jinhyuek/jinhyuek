@@ -1,4 +1,4 @@
-<h4>모두들 좋은하루 되세요</h4>
+Nice to see you on my GitHub profile!
 <hr>
 
 - 🔭 I’m currently working on ...
