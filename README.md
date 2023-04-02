@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2>모두들 좋은하루 되세요</h2>
 
 <!--
 **jinhyuek/jinhyuek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
