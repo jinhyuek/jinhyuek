@@ -26,6 +26,6 @@
 - Docker와 Nginx를 통한 효율적인 배포 환경 구축
 
 ### 📫 연락 방법
-- 이메일: [your-email@example.com](yjjongy1@gmail.com)
+- 이메일: [yjjongy1@gmail.com](yjjongy1@gmail.com)
 
 
