@@ -3,7 +3,7 @@
 
 저는 **컴퓨터공학**을 전공하고 있으며, 주로 **프론트엔드 개발**에 집중하고 있습니다. 다양한 웹 기술을 탐구하고, 효율적이고 사용자 친화적인 웹 애플리케이션을 만드는 데 열정을 가지고 있습니다.
 
-### 🛠 기술 스택
+### 🛠 주요 기술 스택
 - **프론트엔드**: ![HTML5](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3&logoColor=ffffff) ![React](https://img.shields.io/badge/-REACT-blue?style=flat-square&logo=react&logoColor=ffffff) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=ffffff) 
 
 - **상태 관리**: ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat-square&logo=zustand&logoColor=ffffff)
